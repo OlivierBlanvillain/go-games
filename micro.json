@@ -1,0 +1,17 @@
+{
+  "DisableApiTermination": true,
+  "EbsOptimized": false,
+  "ImageId": "ami-bbc58ac8",
+  "InstanceInitiatedShutdownBehavior": "terminate",
+  "InstanceType": "t2.micro",
+  "KeyName": "laptop",
+  "MaxCount": 1,
+  "MinCount": 1,
+  "Monitoring": {
+    "Enabled": true
+  },
+  "Placement": {
+    "AvailabilityZone": "eu-west-1a",
+    "Tenancy": "default"
+  }
+}

@@ -1,1 +1,1 @@
-# go-games
+# Go games!
