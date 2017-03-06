@@ -1,0 +1,6 @@
+{
+  "ImageId": "ami-405f7226",
+  "InstanceType": "p2.xlarge",
+  "KeyName": "laptop",
+  "UserData": "##"
+}
